@@ -1,0 +1,7 @@
+# Terraform state and local caches (state can contain secrets)
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+infra/lambda/counter.zip
+.DS_Store
